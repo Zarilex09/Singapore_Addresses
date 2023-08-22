@@ -3,6 +3,8 @@ A database of Singapore Addresses queried from OneMap
 
 ## This project is created to help others gain access to all SG postal codes and addresses for personal use
 
+Instructions -> Go to New_output.xlsx and click the three dots to download
+
 **This repository is maintained by @Zarilex09 and last updated on 22/8/23**
 
 ### The database contains 122,259 addresses with postal codes, sector, region and district based on general acceptance of boundaries.
